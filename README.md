@@ -6,7 +6,7 @@ Final year CS student at UFV. Currently tackling several personal projects, incl
 
 ## Previous Work
 
-* Co-author of *"Benefits of Chain of Thought Prompting for Clinical Record Rubric Evaluation in Undergraduate Medicine Education"*, accepted at **JMIR Medical Education** (2026, JIF 12.6, #1 of 86 in "Education, Scientific Disciplines"). CoT prompting on Llama 3.1 and Claude 3.5 raised evaluation accuracy from ~86% to 94.6% and surfaced 317 errors in the human-graded rubrics. → [doi.org/10.2196/88652](https://doi.org/10.2196/88652)
+* Co-author of *"Benefits of Chain of Thought Prompting for Clinical Record Rubric Evaluation in Undergraduate Medicine Education"*, accepted at **JMIR Medical Education** (2026, JIF 12.6, #1 of 86 in "Education, Scientific Disciplines"). CoT prompting on Llama 3.1 and Claude 3.5 raised evaluation accuracy from ~86% to 94.6% and surfaced 317 errors in the human-graded rubrics. -> [doi.org/10.2196/88652](https://doi.org/10.2196/88652)
 
 ## Core Skills
 
