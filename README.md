@@ -2,7 +2,7 @@
 
 ## About Me
 
-Final year CS student at UFV. Currently tackling several personal projects, including the design, implementation and training of a novel non-autoregressive language model architecture.
+AI developer currently tackling several personal projects, including the design, implementation and training of a novel non-autoregressive language model architecture.
 
 ## Previous Work
 
@@ -20,7 +20,8 @@ Final year CS student at UFV. Currently tackling several personal projects, incl
 
 ## Areas of Interest
 
-* **Image Generation Models**: diffusion models, RFs, and related techniques.
+* **Language Modeling**: transformer architecture, attention variants.
+* **Image Generation Models**: diffusion, flow matching, and related techniques.
 * **Reasoning Models**: architectures and methods for complex, multi-step problem solving.
 * **Neural Architecture Design**: custom architectures tailored to task-specific goals and constraints.
 
